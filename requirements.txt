@@ -1,0 +1,8 @@
+behave == 1.2.5
+parse == 1.8.2
+parse-type == 0.4.2
+pip == 9.0.1
+selenium == 3.8.1
+setuptools == 38.4.0
+six == 1.11.0
+wheel == 0.30.0
