@@ -1,0 +1,15 @@
+env
+phantomjs-2.1.1-linux-x86_64
+.idea
+.idea/workspace.xml
+ghostdriver.log
+__pycache__/
+misc.xml
+sb-python-tests.iml
+screenshots/*.png
+geckodriver.log
+screenshots/*
+scripts/features_links
+*.pyc
+.cache
+*.log
