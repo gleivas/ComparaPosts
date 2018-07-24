@@ -1,0 +1,193 @@
+1532446766943	geckodriver	INFO	geckodriver 0.18.0
+1532446766948	geckodriver	INFO	Listening on 127.0.0.1:50237
+1532446768073	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1532446769360	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2398:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2398:17
+processFileChanges@XPIDatabase.jsm:2730:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1532446769361	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1532446769373	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2398:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2398:17
+processFileChanges@XPIDatabase.jsm:2730:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1532446769373	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1532446769383	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2398:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2398:17
+processFileChanges@XPIDatabase.jsm:2730:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1532446769384	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1532446771194	Marionette	INFO	Listening on port 46255
+1532446771287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532446771354	Marionette	DEBUG	[2147483649] Frame script loaded
+1532446771355	Marionette	DEBUG	[2147483649] Frame script registered
+1532446774896	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1532446775151	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1532446775170	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1532446775246	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=dnsNotFound&u=https%3A//facebook.comgustavo.leivas.142/&c=UTF-8&f=regular&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20facebook.comgustavo.leivas.142.
+1532446775256	Marionette	INFO	Stopped listening on port 46255
+[Child 23709, Chrome_ChildThread] WARNING: pipe error (16): Connection reset by peer: file /build/firefox-LkAcLL/firefox-62.0~b9+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23709, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-LkAcLL/firefox-62.0~b9+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532446826151	geckodriver	INFO	geckodriver 0.18.0
+1532446826157	geckodriver	INFO	Listening on 127.0.0.1:32817
+1532446827281	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1532446828590	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-GB@firefox.mozilla.org is invalid: Error: Extension langpack-en-GB@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2398:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2398:17
+processFileChanges@XPIDatabase.jsm:2730:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1532446828591	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1532446828602	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-ZA@firefox.mozilla.org is invalid: Error: Extension langpack-en-ZA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2398:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2398:17
+processFileChanges@XPIDatabase.jsm:2730:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1532446828603	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1532446828612	addons.xpi-utils	WARN	addMetadata: Add-on langpack-en-CA@firefox.mozilla.org is invalid: Error: Extension langpack-en-CA@firefox.mozilla.org is not correctly signed (resource://gre/modules/addons/XPIDatabase.jsm:2398:17) JS Stack trace: addMetadata@XPIDatabase.jsm:2398:17
+processFileChanges@XPIDatabase.jsm:2730:21
+checkForChanges@XPIProvider.jsm:2535:34
+startup@XPIProvider.jsm:2116:25
+callProvider@AddonManager.jsm:206:12
+_startProvider@AddonManager.jsm:654:5
+startup@AddonManager.jsm:813:9
+startup@AddonManager.jsm:2808:5
+observe@addonManager.js:66:9
+1532446828612	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 2579: TypeError: addon is null
+1532446830570	Marionette	INFO	Listening on port 37505
+1532446830605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532446830661	Marionette	DEBUG	[2147483649] Frame script loaded
+1532446830662	Marionette	DEBUG	[2147483649] Frame script registered
+1532446834221	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1532446835283	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1532446835832	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.facebook.com/gustavo.leivas.142
+1532446836551	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.facebook.com/gustavo.leivas.142
+1532446836580	Marionette	INFO	Stopped listening on port 37505
+[Child 24362, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-LkAcLL/firefox-62.0~b9+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532467695377	geckodriver	INFO	Listening on 127.0.0.1:57417
+1532467696486	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1532467712069	Marionette	INFO	Listening on port 44275
+1532467712514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532467735855	geckodriver	INFO	Listening on 127.0.0.1:48453
+1532467736920	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1532467742489	Marionette	INFO	Listening on port 35711
+1532467742577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532467826303	geckodriver	INFO	Listening on 127.0.0.1:60489
+1532467827362	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette", "--headless"]
+*** You are running in headless mode.
+1532467830892	Marionette	INFO	Listening on port 40213
+1532467830981	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13624, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532467888687	geckodriver	INFO	Listening on 127.0.0.1:39465
+1532467889773	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532467894638	Marionette	INFO	Listening on port 45261
+1532467894704	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13776, Gecko_IOThread] WARNING: pipe error (113): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13880, Chrome_ChildThread] WARNING: pipe error (35): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13880, Chrome_ChildThread] WARNING: pipe error (18): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13880, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532467957486	geckodriver	INFO	Listening on 127.0.0.1:40277
+1532467958543	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532467962403	Marionette	INFO	Listening on port 36129
+1532467962460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 14085, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14085, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532468449456	geckodriver	INFO	Listening on 127.0.0.1:60283
+1532468450541	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532468454636	Marionette	INFO	Listening on port 42191
+1532468454663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 14731, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14731, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532468775732	geckodriver	INFO	Listening on 127.0.0.1:42683
+1532468776788	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532468780772	Marionette	INFO	Listening on port 38035
+1532468780813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 15075, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15075, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469111328	geckodriver	INFO	Listening on 127.0.0.1:45561
+1532469112415	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469116492	Marionette	INFO	Listening on port 33927
+1532469116577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 15446, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15446, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469195927	geckodriver	INFO	Listening on 127.0.0.1:41529
+1532469196986	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469200688	Marionette	INFO	Listening on port 38305
+1532469200708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 15726, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15726, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469268162	geckodriver	INFO	Listening on 127.0.0.1:32929
+1532469269246	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469276116	Marionette	INFO	Listening on port 35537
+1532469276192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 15977, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15977, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469355428	geckodriver	INFO	Listening on 127.0.0.1:60377
+1532469356489	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469360371	Marionette	INFO	Listening on port 40897
+1532469360422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 16247, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16247, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469638918	geckodriver	INFO	Listening on 127.0.0.1:58249
+1532469640001	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469645877	Marionette	INFO	Listening on port 41673
+1532469645943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 16623, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16623, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469700213	geckodriver	INFO	Listening on 127.0.0.1:40813
+1532469701273	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469705080	Marionette	INFO	Listening on port 43617
+1532469705094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 16871, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16871, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469750520	geckodriver	INFO	Listening on 127.0.0.1:48421
+1532469751606	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469755266	Marionette	INFO	Listening on port 40229
+1532469755322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 17114, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17114, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532469826507	geckodriver	INFO	Listening on 127.0.0.1:36505
+1532469827567	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1532469831435	Marionette	INFO	Listening on port 39845
+1532469831493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3icMT4/y-/l/en_GB/E2omhNjM31E.js, line 1668: unreachable code after return statement
+[Child 17354, Chrome_ChildThread] WARNING: pipe error (39): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17354, Chrome_ChildThread] WARNING: pipe error (3): Conexão fechada pela outra ponta: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

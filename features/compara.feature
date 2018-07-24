@@ -1,8 +1,8 @@
-Feature: comparar posts
+#language: pt
+Funcionalidade: Como comunicador, desejo saber se a mesma publicação feita no meu Facebook foi feita no meu Twitter
 
-  Scenario: verificar se ha o mesmo post no blog e no twitter
-     Given um post
-      When verificamos se ele esta no twitter
-      And verificamos se ele esta no blog
-      Then o teste passara se estiver nos dois
+  Cenário: : verificar se há a mesma publicação do Facebook no twitter
+     Dado que há uma publicação nova no Facebook
+      Quando acessarmos o Twitter
+      Então essa mesma publicação deverá estar no Twitter
 
