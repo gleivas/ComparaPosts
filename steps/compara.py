@@ -19,3 +19,5 @@ def step_impl(context):
 def step_impl(context):
     assert assert_text_is_on_twitter(context.browser, context.face_post), \
         'Não é possível garantir que o post está no Twitter'
+
+print('teste')
